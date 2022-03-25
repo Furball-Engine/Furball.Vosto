@@ -1,4 +1,3 @@
-using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using Furball.Vosto.ShadingLanguage.Exceptions;

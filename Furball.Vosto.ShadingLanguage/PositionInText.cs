@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Furball.Vosto.ShadingLanguage {
+﻿namespace Furball.Vosto.ShadingLanguage {
     public struct PositionInText {
         public static PositionInText Zero = new PositionInText { Column = 0, Row = 0 };
 
