@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Furball.Vosto.ShadingLanguage", "Furball.Vosto.ShadingLanguage\Furball.Vosto.ShadingLanguage.csproj", "{5BB2A42B-8D86-4F3A-B2CC-8F0771F7CBD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Furball.Vosto.Transpiler", "Furball.Vosto.Transpiler\Furball.Vosto.Transpiler.csproj", "{88BBE543-7AA0-48A6-AD55-BA40A6F7D481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Furball.Vosto.ShadingLanguage.Tests", "Furball.Vosto.ShadingLanguage.Tests\Furball.Vosto.ShadingLanguage.Tests.csproj", "{39F03177-C1D9-4299-8FAA-A8068ABF7580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Furball.Vosto.CLI", "Furball.Vosto.CLI\Furball.Vosto.CLI.csproj", "{D42982D5-3659-4E3A-BD69-BBB0BB2D09BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BB2A42B-8D86-4F3A-B2CC-8F0771F7CBD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB2A42B-8D86-4F3A-B2CC-8F0771F7CBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB2A42B-8D86-4F3A-B2CC-8F0771F7CBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB2A42B-8D86-4F3A-B2CC-8F0771F7CBD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88BBE543-7AA0-48A6-AD55-BA40A6F7D481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88BBE543-7AA0-48A6-AD55-BA40A6F7D481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88BBE543-7AA0-48A6-AD55-BA40A6F7D481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88BBE543-7AA0-48A6-AD55-BA40A6F7D481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F03177-C1D9-4299-8FAA-A8068ABF7580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F03177-C1D9-4299-8FAA-A8068ABF7580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F03177-C1D9-4299-8FAA-A8068ABF7580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F03177-C1D9-4299-8FAA-A8068ABF7580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D42982D5-3659-4E3A-BD69-BBB0BB2D09BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42982D5-3659-4E3A-BD69-BBB0BB2D09BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42982D5-3659-4E3A-BD69-BBB0BB2D09BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42982D5-3659-4E3A-BD69-BBB0BB2D09BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
